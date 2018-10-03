@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="bienvenida">Hola bienvenidos, os habla vuestro ser supremo</string>
+    <string name="pulsame">DONT TOUCH ME</string>
+    <string name="cambia_fomra">ME CAMBIASTE POR OTRA</string>
+</resources>
